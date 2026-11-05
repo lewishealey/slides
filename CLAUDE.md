@@ -37,6 +37,10 @@ Use npm with the public registry (see `.npmrc`). The lockfile must only resolve 
 - Don't add dependencies. Use `react`, `@open-slide/core` and standard web APIs only.
 - Speaker notes are public. They ship in the build and show in presenter view, and the repo is
   public. Keep anything private out of them.
+- Interactive slides, like `pick-your-personality`, are fine. In the player, a click on the
+  outer thirds of a slide turns the page unless it lands on a button, input, link or an element
+  with `data-osd-interactive`. Arrow keys turn the page too, so a custom control that uses
+  them must call `preventDefault()` and `stopPropagation()`.
 - Before writing or editing any slide, read the `slide-authoring` skill. It covers the
   1920×1080 canvas, type scale, layout, steps, transitions and notes.
 

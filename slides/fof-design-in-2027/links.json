@@ -108,6 +108,15 @@
         }
       ]
     },
+    "TheMiddleRadar": {
+      "title": "Pick your personality",
+      "links": [
+        {
+          "label": "Try it: Pick your personality",
+          "url": "https://slides.lewishealey.com/s/pick-your-personality"
+        }
+      ]
+    },
     "TasteExample": {
       "title": "Tip 04 in practice · Design skills to try",
       "links": [

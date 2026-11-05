@@ -5,6 +5,7 @@ Lewis Healey's talks, built with [Open Slide](https://www.npmjs.com/package/@ope
 | Talk | Event | Link |
 |---|---|---|
 | Am I screwed? How to design in 2027 | Friends of Figma World Tour, 5 Nov 2026 | [slides.lewishealey.com/s/fof-design-in-2027](https://slides.lewishealey.com/s/fof-design-in-2027) |
+| Pick your personality (interactive radar from the talk) | Tool | [slides.lewishealey.com/s/pick-your-personality](https://slides.lewishealey.com/s/pick-your-personality) |
 
 ## Run it
 
