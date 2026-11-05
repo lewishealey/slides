@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+<defs>
+<linearGradient id="gx" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0.05"/><stop offset="0.09" stop-color="#fff" stop-opacity="0.3"/><stop offset="0.34" stop-color="#fff" stop-opacity="1"/><stop offset="0.71" stop-color="#fff" stop-opacity="1"/><stop offset="0.896" stop-color="#fff" stop-opacity="0.34"/><stop offset="1" stop-color="#fff" stop-opacity="0.15"/></linearGradient>
+<linearGradient id="gy" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.05"/><stop offset="0.103" stop-color="#fff" stop-opacity="0.32"/><stop offset="0.324" stop-color="#fff" stop-opacity="1"/><stop offset="0.654" stop-color="#fff" stop-opacity="1"/><stop offset="0.765" stop-color="#fff" stop-opacity="0.77"/><stop offset="0.875" stop-color="#fff" stop-opacity="0.42"/><stop offset="1" stop-color="#fff" stop-opacity="0.1"/></linearGradient>
+<mask id="mx"><rect width="1920" height="1080" fill="url(#gx)"/></mask>
+<mask id="my"><rect width="1920" height="1080" fill="url(#gy)"/></mask>
+<radialGradient id="glow" cx="470" cy="500" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(470 500) scale(720 430) translate(-470 -500)"><stop offset="0" stop-color="#232350" stop-opacity="0.12"/><stop offset="1" stop-color="#232350" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1920" height="1080" fill="#141414"/>
+<rect width="1920" height="1080" fill="url(#glow)"/>
+<g mask="url(#mx)"><g mask="url(#my)"><path d="M53.2 0V1080M172.5 0V1080M291.7 0V1080M411 0V1080M530.2 0V1080M649.5 0V1080M768.7 0V1080M888 0V1080M1007.2 0V1080M1126.5 0V1080M1245.7 0V1080M1365 0V1080M1484.2 0V1080M1603.5 0V1080M1722.7 0V1080M1842 0V1080M1961.2 0V1080M0 -6.7H1920M0 112.5H1920M0 231.8H1920M0 351H1920M0 470.3H1920M0 589.5H1920M0 708.8H1920M0 828H1920M0 947.3H1920M0 1066.5H1920" fill="none" stroke="#fff" stroke-opacity="0.17" stroke-width="2.25" stroke-dasharray="1.9 1.9"/></g></g>
+
+</svg>

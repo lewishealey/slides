@@ -1,0 +1,180 @@
+{
+  "_readme": "Links for the public one-pager. Keys are page component names in index.tsx; the export numbers them by their place in the deck and skips any that are parked. Rebuild with: node exports/export-links-page.mjs",
+  "deck": {
+    "title": "Am I screwed? How to design in 2027",
+    "event": "Friends of Figma",
+    "author": "Lewis Healey",
+    "role": "Principal Design Technologist, Atlassian"
+  },
+  "slides": {
+    "Year1963": {
+      "title": "1963 · Sketchpad",
+      "links": [
+        {
+          "label": "Sketchpad by Ivan Sutherland",
+          "url": "https://en.wikipedia.org/wiki/Sketchpad"
+        }
+      ]
+    },
+    "Dreamweaver": {
+      "title": "1997 · Dreamweaver",
+      "links": [
+        {
+          "label": "Adobe Dreamweaver",
+          "url": "https://www.adobe.com/products/dreamweaver.html"
+        }
+      ]
+    },
+    "AiWritesCode": {
+      "title": "AI could write code",
+      "links": [
+        {
+          "label": "Cursor",
+          "url": "https://cursor.com"
+        },
+        {
+          "label": "Rovo",
+          "url": "https://www.atlassian.com/software/rovo"
+        },
+        {
+          "label": "Claude Code",
+          "url": "https://claude.com/product/claude-code"
+        },
+        {
+          "label": "Codex",
+          "url": "https://openai.com/codex/"
+        }
+      ]
+    },
+    "PlaygroundTool": {
+      "title": "Playgrnd",
+      "links": [
+        {
+          "label": "playgrnd.tools",
+          "url": "https://www.playgrnd.tools/"
+        }
+      ]
+    },
+    "ByggaTool": {
+      "title": "Bygga",
+      "links": [
+        {
+          "label": "usebygga.com",
+          "url": "https://www.usebygga.com/"
+        }
+      ]
+    },
+    "BuildYourOwn": {
+      "title": "Build your own tools",
+      "links": [
+        {
+          "label": "Figma Make",
+          "url": "https://www.figma.com/make/"
+        },
+        {
+          "label": "Claude Code",
+          "url": "https://claude.com/product/claude-code"
+        }
+      ]
+    },
+    "AgentsDemo": {
+      "title": "Agents will do the first draft",
+      "links": [
+        {
+          "label": "Rovo Dev",
+          "url": "https://www.atlassian.com/software/rovo-dev"
+        }
+      ]
+    },
+    "AgentsStartDesign": {
+      "title": "Agents will start the design",
+      "links": [
+        {
+          "label": "Rovo Dev",
+          "url": "https://www.atlassian.com/software/rovo-dev"
+        }
+      ]
+    },
+    "JsonRender": {
+      "title": "Tip 01 in practice · json-render",
+      "links": [
+        {
+          "label": "json-render.dev",
+          "url": "https://json-render.dev"
+        },
+        {
+          "label": "vercel-labs/json-render",
+          "url": "https://github.com/vercel-labs/json-render"
+        }
+      ]
+    },
+    "TasteExample": {
+      "title": "Tip 04 in practice · Design skills to try",
+      "links": [
+        {
+          "label": "Frontend Design · Anthropic",
+          "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+        },
+        {
+          "label": "Impeccable · Paul Bakaus",
+          "url": "https://impeccable.style"
+        },
+        {
+          "label": "UI UX Pro Max",
+          "url": "https://uupm.cc"
+        },
+        {
+          "label": "Web Design Guidelines · Vercel",
+          "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines"
+        },
+        {
+          "label": "Bonus: Superpowers · Jesse Vincent",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "label": "Bonus: Grill Me · Matt Pocock",
+          "url": "https://www.aihero.dev/skills-grill-me"
+        }
+      ]
+    },
+    "PracticeFigma": {
+      "title": "Use Figma as the input",
+      "links": [
+        {
+          "label": "Guide to the Figma MCP server",
+          "url": "https://help.figma.com/hc/en-us/articles/32132100833559"
+        }
+      ]
+    },
+    "FigmaExample": {
+      "title": "Figma MCP server",
+      "links": [
+        {
+          "label": "Guide to the Figma MCP server",
+          "url": "https://help.figma.com/hc/en-us/articles/32132100833559"
+        }
+      ]
+    },
+    "ModelsExample": {
+      "title": "Tip 05 in practice · What each model is best at",
+      "links": [
+        {
+          "label": "Claude",
+          "url": "https://claude.com"
+        },
+        {
+          "label": "Sol · OpenAI",
+          "url": "https://developers.openai.com/api/docs/models/gpt-6.1-sol"
+        },
+        {
+          "label": "Gemini",
+          "url": "https://gemini.google.com"
+        },
+        {
+          "label": "DeepSeek",
+          "url": "https://www.deepseek.com"
+        }
+      ]
+    }
+  }
+}
